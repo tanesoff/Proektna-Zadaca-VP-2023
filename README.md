@@ -1,5 +1,5 @@
 # tic-tac-toe
-
+![alt text](https://github.com/tanesoff/Proektna-Zadaca-VP-2023/blob/master/Sliki/Three.jpg)
 
 Документацијата за проектната задача треба во максимум 5 страни да го содржи следново:
 
