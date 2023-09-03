@@ -1,5 +1,5 @@
 # tic-tac-toe
-![alt text](https://github.com/tanesoff/Proektna-Zadaca-VP-2023/blob/master/Sliki/One.png)
+![alt text](https://github.com/tanesoff/SI_2023_lab2_193161/blob/master/Lab2_SI_193161_CFG.png?raw=true)
 
 
 Документацијата за проектната задача треба во максимум 5 страни да го содржи следново:
